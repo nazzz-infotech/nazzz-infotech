@@ -1,5 +1,5 @@
 # Hello, I am Full Stack Python ( Angular + Python) developer
-### I make simple cross-platform apps 
+### I make simple Web apps 
 ---
 #### My favorite IDE is VSCode
 
